@@ -1,4 +1,4 @@
 print ("Hello world")
 print ("Visarut")
 print ("ปิยะมหาราชาลัย")
-print ("นครพนม")
+print ("นครพม")
